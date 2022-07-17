@@ -69,8 +69,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Non-pharma science-based papers about autoinmune disease"
-  Content = "A curated list - use tags link above"
+  Title = "Science-based non-pharmacological interventions for autoinmune disease"
+  Content = "A curated list of dietary / nutrition interventions, lifestyle, gut microbiome, pro/pre biotics, phytochemicals (herbal extracts), etc"
 
   [[params.socialIcons]]
   name = "twitter"
