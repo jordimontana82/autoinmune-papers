@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://jordimontana82.github.io/autoinmune-papers/"
 title = "A curated list of papers about autoinmune disease"
 paginate = 5
 theme = "PaperMod"
