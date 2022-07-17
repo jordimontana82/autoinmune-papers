@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-07-17T20:37:47+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/atopic-dermatitis/</loc>
+    <lastmod>2022-07-17T20:37:47+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/pmid_35806975/</loc>
+    <lastmod>2022-07-17T20:37:47+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/gut-microbiome/</loc>
+    <lastmod>2022-07-17T20:37:47+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/gut-skin-axis/</loc>
+    <lastmod>2022-07-17T20:37:47+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2022-07-17T20:37:47+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+</urlset>
