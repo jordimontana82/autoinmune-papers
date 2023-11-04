@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>gut-skin axis on A curated list of papers about autoinmune diseases</title>
-    <link>http://example.org/tags/gut-skin-axis/</link>
-    <description>Recent content in gut-skin axis on A curated list of papers about autoinmune diseases</description>
+    <title>gut-skin axis on A curated list of papers about autoinmune disease</title>
+    <link>https://jordimontana82.github.io/autoinmune-papers/tags/gut-skin-axis/</link>
+    <description>Recent content in gut-skin axis on A curated list of papers about autoinmune disease</description>
+    <image>
+      <url>https://jordimontana82.github.io/autoinmune-papers/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jordimontana82.github.io/autoinmune-papers/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 20:37:47 +0200</lastBuildDate><atom:link href="http://example.org/tags/gut-skin-axis/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Jul 2022 20:37:47 +0200</lastBuildDate><atom:link href="https://jordimontana82.github.io/autoinmune-papers/tags/gut-skin-axis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the Differences in the Gut Microbiome in Atopic Dermatitis According to the Presence of Gastrointestinal Symptoms</title>
-      <link>http://example.org/pmid_35806975/</link>
+      <link>https://jordimontana82.github.io/autoinmune-papers/pmid_35806975/</link>
       <pubDate>Sun, 17 Jul 2022 20:37:47 +0200</pubDate>
       
-      <guid>http://example.org/pmid_35806975/</guid>
-      <description>Abstract Link to article
-(1) Background: Atopic dermatitis (AD) is a multifactorial chronic allergic skin disease. Gastrointestinal (GI) functions have been suggested to be associated with its incidence or severity. As modulators of the gut-skin axis, gut microbes might affect the pathophysiology of AD. (2) Methods: We divided a cohort of patients with AD according to their GI symptoms as follows: AD with epigastric fullness (ADwEF), AD with epigastric rigidity (ADwER), and AD without GI symptoms (ADw/oGI).</description>
+      <guid>https://jordimontana82.github.io/autoinmune-papers/pmid_35806975/</guid>
+      <description>Link to paper
+Copyright and License Information Authors: Chang-Yi Han, Soon-Kyeong Kwon, Mijung Yeom, Dae-Hyun Hahm, Jae-Woo Park, Hi-Joon Park, and Kyuseok Kim
+Copyright © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+Abstract (1) Background: Atopic dermatitis (AD) is a multifactorial chronic allergic skin disease. Gastrointestinal (GI) functions have been suggested to be associated with its incidence or severity.</description>
     </item>
     
   </channel>
